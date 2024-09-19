@@ -17,6 +17,6 @@ public class contohMethodStaticdanNonstatic {
         contohMethodStaticdanNonstatic pesan = new contohMethodStaticdanNonstatic();
 
         //berikut adalah cara untuk memanggil method non static
-        pesan.tampilkanPesanSelamatDatang("Jeshua Matthew");
+        pesan.tampilkanPesanSelamatDatang("Rio Saputra");
     }
 }

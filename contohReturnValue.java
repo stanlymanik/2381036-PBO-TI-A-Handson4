@@ -1,6 +1,6 @@
 public class contohReturnValue {
     public static void sebutkanNama(){
-        System.out.println("Nama Saya Jeshua Matthew");
+        System.out.println("Nama Saya Rio Saputra");
     }
 
     public static int kembalikanAngka(){
